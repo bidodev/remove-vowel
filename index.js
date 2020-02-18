@@ -11,9 +11,5 @@
  *
  */
 
-function vreplace(str) {
-  return str.replace(/[aeiou]/gi, "");
-}
-console.log(vreplace("apples and bananas", "u"));
-console.log(vreplace("cheese casserole", "o"));
-console.log(vreplace("stuffed jalapeno poppers", "e"));
+const removeVowels = (str) => str.replace(/[aeiou]/gi, "");
+console.log(removeVowels("I have never seen a thin person drinking Diet Coke"));
