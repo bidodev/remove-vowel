@@ -24,7 +24,11 @@ removeVowels("Happy Thanksgiving to all--even the haters and losers!")
   ![Imgur](https://i.imgur.com/rkeGM67.png)
 
   ```javascript
-  // 1. Created a function using the method arr.some() to check if the letter is a vowel. The method .some() will return either true or false.
+  // 1. Created a function using the method arr.some() to check if the letter is a vowel.
+  // The method .some() will return either true or false.
+
+  // 2. We have another function to remove the vowels.
+  // 2.1 First we split the text and using arr.map() and or previously function we return only an array without the vowels.
   ```
 
 - [Second Solution](https://github.com/bidodev/remove-vowel/tree/second-solution)
