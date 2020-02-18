@@ -21,7 +21,8 @@ removeVowels("Happy Thanksgiving to all--even the haters and losers!")
 ## Solutions
 
 - [First Solution](https://github.com/bidodev/remove-vowel/tree/first-solution)
-  ![First Solution](https://i.imgur.com/LNzleVo.png)
+  [Imgur](https://i.imgur.com/rkeGM67.png)
 
 - [Second Solution](https://github.com/bidodev/remove-vowel/tree/second-solution)
+  [Imgur](https://i.imgur.com/rkeGM67.png)
 - [Third Solution](https://github.com/bidodev/remove-vowel/tree/third-solution)
