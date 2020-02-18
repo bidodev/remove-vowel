@@ -17,3 +17,7 @@ removeVowels("Happy Thanksgiving to all--even the haters and losers!")
 "W'r gnn bld wll!";
 "Hppy Thnksgvng t ll--vn th htrs nd lsrs!";
 ```
+
+## Solutions
+
+1. [First Solution](../blob/master/LICENSE)
