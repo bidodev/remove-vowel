@@ -29,13 +29,22 @@ removeVowels("Happy Thanksgiving to all--even the haters and losers!")
 
   // 2. We have another function to remove the vowels.
   // 2.1 First we split the text and using arr.map() and or previously function we return only an array without the vowels.
+
+  // 3. At the end we use join to have a string.
   ```
 
 - [Second Solution](https://github.com/bidodev/remove-vowel/tree/second-solution)
   ![Imgur](https://i.imgur.com/HlfdqF1.png)
+
+  ```javascript
+  // 1. In this solution we use the method build-in replace() and regex to filter out all the vowels.
+  ```
+
 - [Third Solution](https://github.com/bidodev/remove-vowel/tree/third-solution)
   ![Imgur](https://i.imgur.com/PYJxnB3.png)
 
-```
-
-```
+  ```javascript
+  // 1. In this solution we also have 2 functions. The first one validated if is or not a vowel.
+  // 2. The second function push into the array result all not vowels.
+  // 3. At the end we use join to have a string.
+  ```
