@@ -20,4 +20,4 @@ removeVowels("Happy Thanksgiving to all--even the haters and losers!")
 
 ## Solutions
 
-1. [First Solution](/first-solution)
+1. [First Solution](tree/first-solution)
